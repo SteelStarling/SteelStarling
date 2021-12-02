@@ -1,5 +1,5 @@
 # Well Howdy There!
-I'm Taylor Hancock, better known on The Interwebz:tm: as SteelStarling! I'm a freshman Software Engineering - Space Track student at [Embry-Riddle Aeronautical University - Prescott](https://prescott.erau.edu/). Along with doing serious programming things<sup>:tm:</sup>, I love [obscure technology](https://www.youtube.com/watch?v=1OfxlSG6q5Y), [dumb units](https://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement), and [esolangs](https://esolangs.org/wiki/Esoteric_programming_language)!
+I'm Taylor Hancock, better known on The Interwebz:tm: as SteelStarling! I'm a freshman Software Engineering - Space Track student at [Embry-Riddle Aeronautical University - Prescott](https://prescott.erau.edu/) and an aspiring Vim user. Along with doing serious programming things<sup>:tm:</sup>, I love [obscure technology](https://www.youtube.com/watch?v=1OfxlSG6q5Y), [dumb units](https://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement), and [esolangs](https://esolangs.org/wiki/Esoteric_programming_language)!
 
 
 
