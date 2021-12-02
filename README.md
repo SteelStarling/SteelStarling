@@ -14,10 +14,15 @@ I'm Taylor Hancock, better known on The Interwebz:tm: as SteelStarling! I'm a fr
 
 ### Languages:
 
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java)](https://www.wikipedia.com/en/Java_(programming_language))
-[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c)](https://www.wikipedia.com/en/C_(programming_language))
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)](https://www.wikipedia.com/en/JavaScript)
-[![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-34455?logo=autohotkey)](https://www.wikipedia.com/en/AutoHotkey)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java)](https://en.wikipedia.org/wiki/Java_(programming_language))
+[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-34455?logo=autohotkey&logoColor=black)](https://en.wikipedia.org/wiki/AutoHotkey)
+[![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)](https://en.wikipedia.org/wiki/LaTeX)
+[![MATLAB](https://img.shields.io/badge/-MATLAB-1684B3)](https://en.wikipedia.org/wiki/MATLAB)
+
+
 
 
 <!--
