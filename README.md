@@ -1,5 +1,5 @@
 # Well Howdy There!
-I'm Taylor Hancock, better known on The Interwebz:tm: as SteelStarling! I'm a freshman Software Engineering - Space Track student at [Embry-Riddle Aeronautical University - Prescott](https://prescott.erau.edu/). Along with doing serious programming things:tm:, I love obscure technology, dumb units, and [esolangs](https://esolangs.org/wiki/Esoteric_programming_language)!
+I'm Taylor Hancock, better known on The Interwebz:tm: as SteelStarling! I'm a freshman Software Engineering - Space Track student at [Embry-Riddle Aeronautical University - Prescott](https://prescott.erau.edu/). Along with doing serious programming things<sup>:tm:</sup>, I love [obscure technology](https://www.youtube.com/watch?v=1OfxlSG6q5Y), [dumb units](https://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement), and [esolangs](https://esolangs.org/wiki/Esoteric_programming_language)!
 
 
 
@@ -14,15 +14,23 @@ I'm Taylor Hancock, better known on The Interwebz:tm: as SteelStarling! I'm a fr
 
 ### Languages:
 
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java)](https://en.wikipedia.org/wiki/Java_(programming_language))
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java)](https://www.java.com)
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
-[![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-34455?logo=autohotkey&logoColor=black)](https://en.wikipedia.org/wiki/AutoHotkey)
-[![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)](https://en.wikipedia.org/wiki/LaTeX)
-[![MATLAB](https://img.shields.io/badge/-MATLAB-1684B3)](https://en.wikipedia.org/wiki/MATLAB)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-34455?logo=autohotkey&logoColor=black)](https://www.autohotkey.com/)
+[![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)](https://www.latex-project.org/)
+[![MATLAB](https://img.shields.io/badge/-MATLAB-1684B3)](https://www.mathworks.com/products/matlab.html)
 
-
+### Tools:
+[![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains)](https://www.jetbrains.com/)
+[![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=1E2530)](https://www.overleaf.com/)
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft%20office)](https://www.office.com/)
+[![Adobe Suite](https://img.shields.io/badge/-Adobe%20Suite-FF0000?logo=adobe)](https://www.adobe.com/)
+[![Firefox](https://img.shields.io/badge/-Firefox-FF7139?logo=firefox&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira)](https://www.atlassian.com/software/jira)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+[![Todoist](https://img.shields.io/badge/-Todoist-E44332?logo=todoist&logoColor=white)](https://todoist.com/)
 
 
 <!--
