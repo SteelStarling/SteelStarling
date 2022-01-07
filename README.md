@@ -32,6 +32,16 @@ I'm Taylor Hancock, better known on The Interwebz<sup>:tm:</sup> as SteelStarlin
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![Todoist](https://img.shields.io/badge/-Todoist-E44332?logo=todoist&logoColor=white)](https://todoist.com/)
 
+### Things I'm Learning
+[![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)](https://www.vim.org/)
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2D%2D)](https://www.cplusplus.com/)
+[![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=c%20sharp)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+
+### Recreational Languages and Tools
+[![Steam](https://img.shields.io/badge/-Steam-000000?logo=steam)](https://store.steampowered.com/)
+[![Pocket Casts](https://img.shields.io/badge/-Pocket%20Casts-F43E37?logo=pocket%20casts&logoColor=white)](https://www.pocketcasts.com/)
+[![bf](https://img.shields.io/badge/-bf-000000)](https://esolangs.org/wiki/bf)
+[![Sonic Pi](https://img.shields.io/badge/-Sonic%20Pi-F72E8D)](https://sonic-pi.net/)
 
 <!--
 **SteelStarling/SteelStarling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
