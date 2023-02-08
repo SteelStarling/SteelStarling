@@ -1,10 +1,10 @@
 # Well Howdy There!
-I'm Taylor Hancock, better known on The Interwebz<sup>:tm:</sup> as SteelStarling! I'm a freshman Software Engineering - Space Track student at [Embry-Riddle Aeronautical University - Prescott](https://prescott.erau.edu/) and an aspiring Vim user. Along with doing serious programming things<sup>[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)</sup>, I love [obscure technology](https://www.youtube.com/watch?v=1OfxlSG6q5Y), [dumb units](https://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement), and [esolangs](https://esolangs.org/wiki/Esoteric_programming_language).
+I'm Taylor Hancock, better known on The Interwebz<sup>:tm:</sup> as SteelStarling! I'm a sophomore Software Engineering - Space Track student at [Embry-Riddle Aeronautical University - Prescott](https://prescott.erau.edu/) and an aspiring Vim user. Along with doing serious programming things<sup>[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)</sup>, I love [obscure technology](https://www.youtube.com/watch?v=1OfxlSG6q5Y), [dumb units](https://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement), and [esolangs](https://esolangs.org/wiki/Esoteric_programming_language).
 
 
 
 # Fact Dump
-[![He/Him Pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-blue)](https://pronoun.is/he/him)
+[![They/Them Pronouns](https://img.shields.io/badge/pronouns-they%2Fthem-purple)](https://pronoun.is/they/them)
 
 
 [![SteelStarling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteelStarling&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,6 +15,7 @@ I'm Taylor Hancock, better known on The Interwebz<sup>:tm:</sup> as SteelStarlin
 ### Languages:
 
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java)](https://www.java.com)
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2D%2D)](https://www.cplusplus.com/)
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -34,7 +35,6 @@ I'm Taylor Hancock, better known on The Interwebz<sup>:tm:</sup> as SteelStarlin
 
 ### Things I'm Learning
 [![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)](https://www.vim.org/)
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2D%2D)](https://www.cplusplus.com/)
 [![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=c%20sharp)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 ### Recreational Languages and Tools
