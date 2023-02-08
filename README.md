@@ -15,7 +15,7 @@ I'm Taylor Hancock, better known on The Interwebz<sup>:tm:</sup> as SteelStarlin
 ### Languages:
 
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java)](https://www.java.com)
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2D%2D)](https://www.cplusplus.com/)
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)](https://www.cplusplus.com/)
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
