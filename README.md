@@ -1,5 +1,5 @@
 # Well Howdy There!
-I'm Taylor Hancock, better known on The Interwebz<sup>:tm:</sup> as SteelStarling! I'm a sophomore Software Engineering - Space Track student at [Embry-Riddle Aeronautical University - Prescott](https://prescott.erau.edu/) and an aspiring Vim user. Along with doing serious programming things<sup>[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)</sup>, I love [obscure technology](https://www.youtube.com/watch?v=1OfxlSG6q5Y), [dumb units](https://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement), and [esolangs](https://esolangs.org/wiki/Esoteric_programming_language).
+I'm Taylor Hancock, better known on The Interwebz<sup>:tm:</sup> as SteelStarling! I'm a senior Software Engineering - Space Track student at [Embry-Riddle Aeronautical University - Prescott](https://prescott.erau.edu/) and an aspiring Vim user. Along with doing serious programming things<sup>[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)</sup>, I love [obscure technology](https://www.youtube.com/watch?v=1OfxlSG6q5Y), [dumb units](https://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement), and [esolangs](https://esolangs.org/wiki/Esoteric_programming_language).
 
 
 
@@ -14,27 +14,28 @@ I'm Taylor Hancock, better known on The Interwebz<sup>:tm:</sup> as SteelStarlin
 
 ### Languages:
 
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java)](https://www.java.com)
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)](https://www.cplusplus.com/)
-[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-34455?logo=autohotkey&logoColor=black)](https://www.autohotkey.com/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)](https://www.latex-project.org/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java)](https://www.java.com)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-1684B3)](https://www.mathworks.com/products/matlab.html)
 
 ### Tools:
 [![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains)](https://www.jetbrains.com/)
-[![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=1E2530)](https://www.overleaf.com/)
-[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft%20office)](https://www.office.com/)
-[![Adobe Suite](https://img.shields.io/badge/-Adobe%20Suite-FF0000?logo=adobe)](https://www.adobe.com/)
+[![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian)](https://obsidian.md/)
+[![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)](https://www.vim.org/)
 [![Firefox](https://img.shields.io/badge/-Firefox-FF7139?logo=firefox&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira)](https://www.atlassian.com/software/jira)
-[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+[![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=1E2530)](https://www.overleaf.com/)
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft%20office)](https://www.office.com/)
 [![Todoist](https://img.shields.io/badge/-Todoist-E44332?logo=todoist&logoColor=white)](https://todoist.com/)
+[![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFDB00?logo=labview&logoColor=black)](https://www.ni.com/en/shop/labview.html)
 
 ### Things I'm Learning
-[![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)](https://www.vim.org/)
+[![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white)](https://godotengine.org/)
 [![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=c%20sharp)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 ### Recreational Languages and Tools
