@@ -6,7 +6,7 @@ this profile is where you can find all my nonsense that isn't locked behind prop
 
 
 # fact dump
-[![She/They Pronouns](https://img.shields.io/badge/pronouns-she%2Fthey-purple)](https://en.pronouns.page/are/she&they)
+[![They/Them Pronouns](https://img.shields.io/badge/pronouns-she%2Fthey-purple)](https://en.pronouns.page/are/she&they)
 
 
 [![SteelStarling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteelStarling&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
