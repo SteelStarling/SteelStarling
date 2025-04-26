@@ -7,7 +7,7 @@ this profile is where you can find all my nonsense that isn't locked behind prop
 
 
 # fact dump
-[![They/Them Pronouns](https://img.shields.io/badge/pronouns-they%2Fthem-purple)](https://en.pronouns.page/are/she&they)
+[![She/Her Pronouns](https://img.shields.io/badge/pronouns-she%2Fher-purple)](https://en.pronouns.page/are/she&her)
 
 
 [![SteelStarling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteelStarling&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
@@ -64,14 +64,14 @@ this profile is where you can find all my nonsense that isn't locked behind prop
 - [advent of code](https://adventofcode.com/)
 
 ### university coursework
-- AE445 - spacecraft detail design - team NOMAD
-- AE302 - aerodynamics 2
+- AE445  - spacecraft detail design - team NOMAD
+- AE302  - aerodynamics 2
 - CEC460 - telecommunication systems
-- CS125 - compsci 1 (C)
-- CS225 - compsci 2 (C++)
-- CS332 - organization of programming languages
-- CS399 - intermediate python
-- SE320 - software construction
+- CS125  - compsci 1 (C)
+- CS225  - compsci 2 (C++)
+- CS332  - organization of programming languages
+- CS399  - intermediate python
+- SE320  - software construction
 
 ## how to contact me?
 
