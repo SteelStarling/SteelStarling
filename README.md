@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=500&color=7658F7&repeat=false&random=true&width=455&height=60&lines=%3E+well+howdy+there!)](https://git.io/typing-svg)
 ---
-i'm tay, better known on the interwebz<sup>:tm:</sup> as steelstarling! i'm a senior in the software engineering - space track program at [erau - prescott](https://prescott.erau.edu/), also studying rocket propulsion, mathematics, and some more miscellaneous nonsense, as well as an aspiring vim user. along with doing serious programming things<sup>[<ins>\[citation needed\]</ins>](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)</sup>, i love [obscure technology](https://www.youtube.com/watch?v=1OfxlSG6q5Y), [dumb units](https://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement), and [esolangs](https://esolangs.org/wiki/Esoteric_programming_language).
+i'm tay, better known on the interwebz<sup>:tm:</sup> as steelstarling! i'm a software engineer working on deep space missions in my day job doing serious programming things<sup>[<ins>\[citation needed\]</ins>](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)</sup> as an alum of [erau - prescott](https://prescott.erau.edu/), but here i do my weird side projects. i love [obscure technology](https://www.youtube.com/watch?v=1OfxlSG6q5Y), [dumb units](https://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement), and [esolangs](https://esolangs.org/wiki/Esoteric_programming_language).
 
 this profile is where you can find all my nonsense that isn't locked behind proprietary information rules, NDAs, or ITAR (p.s. the government, if you're reading this, I will not post ITAR here, I rather value not being in federal prison so I can keep doing my dumb nonsense :3).
-
-
 
 # fact dump
 [![She/Her Pronouns](https://img.shields.io/badge/pronouns-she%2Fher-purple)](https://en.pronouns.page/are/she&her)
@@ -51,19 +49,21 @@ this profile is where you can find all my nonsense that isn't locked behind prop
 ## what am i currently working on?
 
 ### cool space stuff
-- [that i...cannot talk about](https://en.wikipedia.org/wiki/International_Traffic_in_Arms_Regulations)
+- that i...[cannot talk about](https://en.wikipedia.org/wiki/International_Traffic_in_Arms_Regulations) (but promise is really cool)
 - that i can (and love to) talk about:
-  - current bus systems & integration lead for [EagleSat II](https://eaglelife.erau.edu/eaglesat/home/)
-  - head of software development for EagleSat R&D
+  - former bus systems & integration lead for [EagleSat II](https://eaglelife.erau.edu/eaglesat/home/)
+  - former head of software development for EagleSat R&D
 
 ### weird productivity tools useful to nobody but myself
+
+### dumb projects
 
 ### janky games and chess engines
 
 ### coding puzzles
 - [advent of code](https://adventofcode.com/)
 
-### university coursework
+### university coursework (done now :3)
 - AE445  - spacecraft detail design - team NOMAD
 - AE302  - aerodynamics 2
 - CEC460 - telecommunication systems
